@@ -16,7 +16,7 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/portsentinel.git
+   git clone https://github.com/connorgladish/portsentinel.git
    cd portsentinel
    ```
 
