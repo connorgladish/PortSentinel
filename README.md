@@ -1,6 +1,8 @@
 
 # PortSentinel (PortSent)
 
+![PortSent](images/portsent.png)
+
 **PortSentinel**, also known as **PortSent**, is a lightweight port scanner designed to help you identify open ports on a target IP address. It provides actionable security recommendations for each open port, and also fetches geolocation information for the target. With options for scanning custom port ranges, commonly vulnerable ports, and outputting results in formats like JSON or CSV, PortSent is a versatile tool for network security enthusiasts and professionals.
 
 ## Features
