@@ -1,7 +1,7 @@
 ## Changelog
 
-10/26/24
 ```
+10/26/24
 [v0.4] Added Multithreading
 
 ```
