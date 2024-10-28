@@ -5,6 +5,10 @@
 [v0.4] Added Multithreading
 ```
 ```
+10/23/24
+[v0.3.9] Opened Open-Source Git Issue For Fixing Output With JSON
+```
+```
 10/10/24
 [v0.3.5] Added JSON and CSV Outputs, Updated Protocols
 ```
