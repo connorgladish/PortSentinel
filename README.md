@@ -4,7 +4,22 @@
 10/26/24
 [v0.4] Added Multithreading
 ```
-  
+```
+10/10/24
+[v0.3.5] Added JSON and CSV Outputs, Updated Protocols
+```
+```
+10/05/24
+[v0.3] Added Argument Flags To CLI
+```
+```
+09/19/24
+[v0.2] Added Images to Project
+```
+```
+09/17/24
+[v0.1] Initial Creation
+```  
    
 # PortSentinel (PortSent)
 
