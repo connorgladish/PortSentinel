@@ -1,4 +1,12 @@
+## Changelog
 
+10/26/24
+```
+[v0.4] Added Multithreading
+
+```
+  
+   
 # PortSentinel (PortSent)
 
 ![PortSent](images/1portsenticon.png)
